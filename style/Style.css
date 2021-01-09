@@ -1,0 +1,69 @@
+.fontContainer {
+  position: relative;
+  top: 15px;
+
+  font-family: "Varela Round", sans-serif;
+}
+
+.backgroundCard {
+  background-image: linear-gradient(to top, #fff1eb 0%, #ace0f9 100%);
+}
+.backgroundCardtwo {
+  background: #fdf9f7;
+}
+
+.section {
+  display: block;
+  margin: 20px auto;
+}
+
+.searchbutton {
+  display: block;
+  margin: 0;
+  padding: 3px 8px 3px 8px;
+  position: relative;
+  right: 13px;
+  top: 2px;
+  background: rgb(253, 241, 235);
+  border-radius: 3px;
+  border: 1px solid rgb(201, 201, 201);
+}
+button#search-button-current-location {
+  position: relative;
+  top: 0px;
+  left: 365px;
+}
+.currentCity {
+  position: relative;
+  left: 12px;
+  top: 6px;
+  box-sizing: border-box;
+  background-clip: border-box;
+  border: 1px solid rgba(248, 247, 247, 0.125);
+  border-radius: 0.25rem;
+  text-align: center;
+}
+.currentCityInfo {
+  list-style: none;
+  margin: 0 auto;
+  position: relative;
+  right: 15px;
+}
+.information {
+  position: relative;
+  top: 5px;
+  left: 5px;
+  right: 5px;
+}
+.forecastHeadline {
+  text-align: center;
+}
+.forecastText {
+  margin: 0 auto;
+}
+
+.weatherEmoji {
+  position: relative;
+  left: 15px;
+  font-size: 25px;
+}
