@@ -67,3 +67,7 @@ button#search-button-current-location {
   left: 15px;
   font-size: 25px;
 }
+footer {
+  text-align: center;
+  position: relative;
+}
